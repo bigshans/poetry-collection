@@ -2,9 +2,9 @@
 赵喜娜
 =======
 
-网友。个人比较喜欢，会辑录一些诗歌。你可以在 B 站帐号[工人诗之歌](https://space.bilibili.com/483517089)里看到一些他的诗。
+网友。个人比较喜欢，会辑录一些诗歌。你可以在 B 站帐号 `工人诗之歌 <https://space.bilibili.com/483517089>`_ 里看到一些他的诗。
 
-[B 站帐号](https://space.bilibili.com/95222010)。
+`B 站帐号 <https://space.bilibili.com/95222010>`_ 。
 
 缺席
 =====
